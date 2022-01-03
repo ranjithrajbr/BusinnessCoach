@@ -2724,8 +2724,9 @@
     .header_widgets_wrap .slider_engine_revo .theme_button {
         padding: 1.5em 2em !important;
     }
-     .slide_paragraph{
+     .slider_alias_homeslider-1 .rev_slider_wrapper .rev_slider .slide_paragraph {
         font-size:13px !important;
+        line-height: 8px !important;
     }
 
     .header_widgets_wrap .slider_engine_revo .slide_socials,
@@ -3915,6 +3916,12 @@
     }
     .header_widgets_wrap .slider_engine_revo .theme_button {
         padding: 1.5em 1.5em 1.2em !important;
+    }
+    .slider_alias_homeslider-1 .rev_slider_wrapper .rev_slider .slide_paragraph {
+        margin-top:30px !important;
+        font-size: 11px !important;
+        line-height: 11px !important;
+        
     }
     .header_widgets_wrap .slider_engine_revo .slide_socials,
     .header_widgets_wrap .slider_engine_revo .slide_title,
