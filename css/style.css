@@ -8949,13 +8949,12 @@ li.active .sc_button_hover_slide_bottom {
 
 }
 .inner-box{
-width:220px;
-margin:10px 10px;
-padding:10px 20px;
+width:250px;
+margin:10px 20px;
+padding:15px 20px;
 display: flex;
-
 align-items: center;
 flex-direction: column; 
-height:250px;
+height:280px;
 background:#fff;
 }
